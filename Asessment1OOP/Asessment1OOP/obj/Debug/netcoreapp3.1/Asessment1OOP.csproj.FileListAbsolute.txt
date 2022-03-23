@@ -1,0 +1,14 @@
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\bin\Debug\netcoreapp3.1\Asessment1OOP.exe
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\bin\Debug\netcoreapp3.1\Asessment1OOP.deps.json
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\bin\Debug\netcoreapp3.1\Asessment1OOP.runtimeconfig.json
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\bin\Debug\netcoreapp3.1\Asessment1OOP.runtimeconfig.dev.json
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\bin\Debug\netcoreapp3.1\Asessment1OOP.dll
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\bin\Debug\netcoreapp3.1\Asessment1OOP.pdb
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\obj\Debug\netcoreapp3.1\Asessment1OOP.csproj.AssemblyReference.cache
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\obj\Debug\netcoreapp3.1\Asessment1OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\obj\Debug\netcoreapp3.1\Asessment1OOP.AssemblyInfoInputs.cache
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\obj\Debug\netcoreapp3.1\Asessment1OOP.AssemblyInfo.cs
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\obj\Debug\netcoreapp3.1\Asessment1OOP.csproj.CoreCompileInputs.cache
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\obj\Debug\netcoreapp3.1\Asessment1OOP.dll
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\obj\Debug\netcoreapp3.1\Asessment1OOP.pdb
+C:\Users\zolin\Documents\University\2021-2022\CMP1903M-1-2021_Object-Oriented Programming_2022\Assessment1\Asessment1OOP\Asessment1OOP\obj\Debug\netcoreapp3.1\Asessment1OOP.genruntimeconfig.cache
